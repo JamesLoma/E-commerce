@@ -1,0 +1,140 @@
+:root {
+    --btn-bgcolor: rgb(28, 97, 231);
+    --btn-bgcolor-onhover: rgb(32, 90, 207);
+    --color-white: white;
+    --border-color: #80808059;
+}
+
+.flexrow {
+    display: flex;
+    flex-direction: row;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.grab {
+    cursor: grab;
+}
+
+.grab:active {
+    cursor: grabbing;
+}
+
+.underlinehover:hover {
+    text-decoration: underline !important;
+}
+
+.width100 {
+    width: 100% !important;
+}
+
+.width50 {
+    width: 50% !important;
+}
+
+.heigth100 {
+    height: 100% !important;
+}
+
+.list-style {
+    list-style: none;
+}
+
+.margin0 {
+    margin: 0 !important;
+}
+
+.white-space-nowrap {
+    white-space: nowrap;
+}
+
+.border-radius-10 {
+    border-radius: 10px;
+}
+
+.font-color {
+    color: #0b0b0bc5 !important;
+}
+
+.default-cursor {
+    cursor: default;
+}
+
+.cursor-not-allowed {
+    cursor: not-allowed;
+}
+
+.heigth315px {
+    height: 315px;
+}
+
+.border-top {
+    border-top: solid 1px #80808059;
+}
+
+.border-bottom {
+    border-bottom: solid 1px #80808059;
+}
+
+.margin-left-11px {
+    margin-left: 11px;
+}
+
+.background-none {
+    background: none !important;
+}
+
+.text-hover-effect:hover {
+    color: #dc3545 !important;
+    text-decoration: underline !important;
+}
+
+.border {
+    border: solid 1px var(--border-color);
+}
+
+.border-top {
+    border-top: solid 1px var(--border-color);
+}
+.border-bottom {
+    border-bottom: solid 1px var(--border-color);
+}
+.border-left {
+    border-left: solid 1px var(--border-color);
+}
+.bg-light-gray{
+    background: #f8f9fa;
+}
+.vertical-align-middle{
+    vertical-align: middle;
+}
+.card-h-430{
+    height: 418px !important;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #1c61e7;
+    border-color: #1c61e7;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: rgb(32, 90, 207);
+}
+.btn-close:focus {
+    outline: 0;
+    box-shadow: none;
+    opacity: 1;
+}
+.mb-20px{
+    margin-bottom: 20px;
+}
+.border-radius-5{
+    border-radius: 5px !important;
+}
+@media (max-width:767px) {
+    .fs-md-12{
+        font-size: 12px;
+    }
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "428172913667",
+    "project_id": "e-commerce-9ff10",
+    "storage_bucket": "e-commerce-9ff10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428172913667:android:910663d698f44a83f9f236",
+        "android_client_info": {
+          "package_name": "com.diha.E_commerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfWAHI641rL9djNXon3-mKWcexqTpGoJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+/* colors */
+:root {
+    --border-focus: solid 1px #c62828;
+    --primary-color: rgba(219,51,64,1);
+    --primary-color-onhover: #d21e1e;
+    --primary-soft: #ffcdd2;
+    --primary-soft-onhover: #f5a2aa;
+}

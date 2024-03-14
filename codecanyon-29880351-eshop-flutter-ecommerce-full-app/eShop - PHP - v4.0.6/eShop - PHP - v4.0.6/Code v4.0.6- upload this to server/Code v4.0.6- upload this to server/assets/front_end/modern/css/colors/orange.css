@@ -1,0 +1,7 @@
+:root {
+    --border-focus: solid 1px #d84315;
+    --primary-color: #d84315;
+    --primary-color-onhover: #c84016;
+    --primary-soft: #ffccbc;
+    --primary-soft-onhover: rgb(225, 158, 138);
+}
